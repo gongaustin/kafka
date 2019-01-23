@@ -14,7 +14,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @Description:
+ * @Description: 生产者配置
  * @Author:GongJun
  * @Date:2019/1/23
  */
